@@ -1,0 +1,10 @@
+#  openapi-generator-config.yaml
+#  TARDISAPIClient
+#
+#  Created by Mike Nibeck on 12/29/25.
+#
+generate:
+  - types
+  - client
+
+accessModifier: public
